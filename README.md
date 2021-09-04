@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Erudite885
-- 👀 I’m interested in Web Development
+- 👋 Hi, my name is Bianca
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me ... erudite885@gmail.com
