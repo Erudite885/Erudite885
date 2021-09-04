@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erudite885
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me ... erudite885@gmail.com
 
