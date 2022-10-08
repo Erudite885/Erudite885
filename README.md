@@ -7,7 +7,8 @@
  -   Okay, not the spiders web, but my canvas of several projects focused on Frontend languages, libraries and frameworks 
      that provide solutions with a priority on user experience.
  
-💞️ I have a passion for creating dynamic software solutions, because learning never ends and because solving challenges is fun.
+💞️ I have a passion for creating dynamic software solutions, 
+   because learning never ends and solving challenges is fun.
 
 📫 Its a pleasure having you, 
     if you would like to say Hi,
