@@ -21,3 +21,8 @@
 Erudite885/Erudite885 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### My Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Erudite885&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
