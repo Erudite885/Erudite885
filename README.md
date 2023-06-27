@@ -1,6 +1,6 @@
 👋   Hi there,
 
- -   My name is Bianca Uche and I am glad you found your way to my repo
+ -   I am glad you found your way to my repo
  
  -   Here you will find my musings on the art of creating, developing, and evolving the spiders web until there is no way home. 
 
