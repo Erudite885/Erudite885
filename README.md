@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Erudite885&style=flat-square)
+
+
 👋   Hi there,
 
  -   I am glad you found your way to my repo
