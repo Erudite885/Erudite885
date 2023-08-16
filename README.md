@@ -14,11 +14,11 @@
     if you would like to say Hi,
       You can always reach me via:
 
-    
-[![Gmail Badge](https://img.shields.io/badge/Bianca%20Uche-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-    
-
 [![Linkedin Badge](https://img.shields.io/badge/Bianca%20Uche-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-uche/)](https://www.linkedin.com/in/bianca-uche/)
+
+[![E-mail](https://img.shields.io/badge/Bianca%20Uche-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchebianca@gmail.com)
+
+<br><br><br><br>
 
    I would love to correspond.
 
